@@ -6,7 +6,7 @@ Define Terms
     <li>Commit</li>
     <li>Fetch</li>
     <li>GIT</li>
-    <li>Github/<li>
+    <li>Github/</li>
     <li>Merge</li>
     <li>Merge Conflict</li>
     <li>Push</li>
